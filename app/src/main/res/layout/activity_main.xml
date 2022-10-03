@@ -19,4 +19,13 @@
         android:text="Dialog"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
+
+    <SeekBar
+        android:max="255"
+        android:thumbTint="#f20"
+        android:progressBackgroundTint="#f20"
+        android:progress="50"
+        android:progressTint="#f20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 </LinearLayout>
